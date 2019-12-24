@@ -1,0 +1,11 @@
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\bin\Debug\netcoreapp2.1\Day1.deps.json
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\bin\Debug\netcoreapp2.1\Day1.runtimeconfig.json
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\bin\Debug\netcoreapp2.1\Day1.runtimeconfig.dev.json
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\bin\Debug\netcoreapp2.1\Day1.dll
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\bin\Debug\netcoreapp2.1\Day1.pdb
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\obj\Debug\netcoreapp2.1\Day1.csprojAssemblyReference.cache
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\obj\Debug\netcoreapp2.1\Day1.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\obj\Debug\netcoreapp2.1\Day1.AssemblyInfoInputs.cache
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\obj\Debug\netcoreapp2.1\Day1.AssemblyInfo.cs
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\obj\Debug\netcoreapp2.1\Day1.dll
+C:\Users\Rasmus Jacklin\source\repos\AdventOfCode\Day1\Day1\obj\Debug\netcoreapp2.1\Day1.pdb
